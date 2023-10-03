@@ -13,5 +13,3 @@ Reverse engineering is a vital skill for understanding and analyzing existing co
 - **Examples and Exercises**: The document includes practical examples and exercises to illustrate the reverse engineering process for both R-type and I-type instructions. These examples will help you gain a hands-on understanding of these concepts.
 
 - **Green Sheet Overview**: An overview of the MIPS "Green Sheet" and its relevance in the context of reverse engineering.
-
-- **References**: Additional resources and references for further exploration.
